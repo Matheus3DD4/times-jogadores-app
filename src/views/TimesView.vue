@@ -91,4 +91,8 @@ table tr td {
   border: 1px solid #ccc;
   padding: 10px;
 }
+
+table tr:nth-child(odd){
+  background-color: #ccc;
+}
 </style>

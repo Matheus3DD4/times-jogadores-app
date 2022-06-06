@@ -1,9 +1,5 @@
 <template>
-  <footer>
-    <div>
-      <span> <RouterLink to="/"> Rodapé </RouterLink> </span>
-    </div>
-  </footer>
+  <footer>Rodapé</footer>
 </template>
 
 <style>

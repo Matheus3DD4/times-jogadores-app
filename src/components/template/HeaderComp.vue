@@ -3,9 +3,9 @@
     <div class="menu-esquerdo">
       <span> <RouterLink to="/"> Home </RouterLink> </span>
       <span>|</span>
-      <span> <RouterLink to="/"> Jogadores </RouterLink> </span>
+      <span> <RouterLink to="/jogadores"> Jogadores </RouterLink> </span>
       <span>|</span>
-      <span> <RouterLink to="/"> Times </RouterLink> </span>
+      <span> <RouterLink to="/times"> Times </RouterLink> </span>
     </div>
     <div class="menu-direito">
       <span>Sair</span>
